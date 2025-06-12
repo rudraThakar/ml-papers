@@ -6,3 +6,4 @@ Currently the repository contains the following models:-
 - VAE (on mnist Fashion Dataset)
 
 ### Note: More papers/models will be uploaded. Will try to upload 3-4 model/papers per week.
+# Keep Learning, Keep Growing!
